@@ -1,0 +1,22 @@
+.add-cart{
+    background-color: #3399ff;
+color: white;
+font-style: normal;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ outline-style: none;
+ border-color: aliceblue;
+ border-radius: 4px 15px;
+}
+
+
+.span-color {
+
+    color: black;
+}
+
+.text-muted {
+    color: black;
+}
+
+
+
